@@ -2,13 +2,13 @@
   "name": "FreeTP Custom Repacks",
   "downloads": [
     {
-      "title": "Conan Exiles",
+      "title": "Road to Vostok",
       "uris": [
-        "magnet:?xt=urn:btih:d3c9e47194c1db9e8531ddea52664de2d2fa358b&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://open.tracker.cl:1337/announce"
+        "magnet:?xt=urn:btih:c979746a8bb1f8ba38381b2e73837847acff472b&dn=Road to Vostok v0.1.1.3 Portable by InsaneRamZes.torrent&tr=http://bt.t-ru.org/ann&tr=http://retracker.local/announce"
       ],
-      "uploadDate": "2026-05-06T20:05:06Z",
-      "fileSize": "58.28 GB",
-      "comment": "For FreeTP by 100Rad from FPZone"
+      "uploadDate": "2026-05-26T16:30:39.681742Z",
+      "fileSize": "5.53 GB",
+      "comment": "https://rutracker.org/forum/viewtopic.php?t=6842017"
     },
     {
       "title": "DeadPoly v0.6.7 by Pioneer",
