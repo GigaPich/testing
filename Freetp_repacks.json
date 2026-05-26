@@ -1,14 +1,23 @@
 {
-    "name": "freetp by GigaPich",
-    "downloads": [
-        {
-            "title": "DeadPoly",
-            "uris": [
-                "magnet:?xt=urn:btih:XLTCHJGATZJCQIIMGZJMMZD2BBWCVFW3&dn=DeadPoly%20v0.6.7%20by%20Pioneer&tr=udp%3A%2F%2Fopentor.net%3A6969",
-                "magnet:?xt=urn:btih:XLTCHJGATZJCQIIMGZJMMZD2BBWCVFW3&dn=rutor.info&tr=udp://opentor.net:6969&tr=http://retracker.local/announce"
-            ],
-            "fileSize": "1 GB",
-            "uploadDate": "2026-05-25T12:06:38.148502"
-        }
-    ]
+  "name": "FreeTP By GigaPich",
+  "downloads": [
+    {
+      "title": "Conan Exiles",
+      "uris": [
+        "magnet:?xt=urn:btih:d3c9e47194c1db9e8531ddea52664de2d2fa358b&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://open.tracker.cl:1337/announce"
+      ],
+      "uploadDate": "2026-05-06T20:05:06Z",
+      "fileSize": "58.28 GB",
+      "comment": "For FreeTP by 100Rad from FPZone"
+    },
+    {
+      "title": "DeadPoly v0.6.7 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:bae623a4c09e5228210c3652c6647a086c2a96db&tr=udp://opentor.net:6969&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "2026-05-25T12:10:21Z",
+      "fileSize": "1.31 GB",
+      "comment": "http://rutor.is/torrent/1086742"
+    }
+  ]
 }
