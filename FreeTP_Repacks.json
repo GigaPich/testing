@@ -9977,10 +9977,10 @@
     {
       "title": "Outbound",
       "uris": [
-        "magnet:?xt=urn:btih:7a043f48d1839261849f73836c182fd2e50cf13d&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:a798da21aba929ea6936ed94d7a8c820e152979d&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
       ],
-      "uploadDate": "2026-05-21T11:42:34Z",
-      "fileSize": "4.57 GB"
+      "uploadDate": "2026-05-26T17:28:43Z",
+      "fileSize": "4.78 GB"
     },
     {
       "title": "Outbreak - Epidemic [FitGirl Repack]",
@@ -11674,6 +11674,14 @@
       ],
       "uploadDate": "2024-05-09T06:15:58Z",
       "fileSize": "48.99 MB"
+    },
+    {
+      "title": "Romestead v0.25.1_0 by Pioneer",
+      "uris": [
+        "magnet:?xt=urn:btih:3c8e04a11ca5ac5708096870b826e98c9ce3be69&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+      ],
+      "uploadDate": "2026-05-26T16:16:25Z",
+      "fileSize": "251.28 MB"
     },
     {
       "title": "Rooftops & Alleys - The Parkour Game v1.1 by Pioneer",
@@ -13896,6 +13904,14 @@
       "fileSize": "525.78 MB"
     },
     {
+      "title": "Teamfight Manager 2",
+      "uris": [
+        "magnet:?xt=urn:btih:c2fd8f0ef030640574a636887ab7a0b4f0c29d25&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+      ],
+      "uploadDate": "2026-05-26T18:08:07Z",
+      "fileSize": "1.10 GB"
+    },
+    {
       "title": "Teamfight Manager v1.4.9 by Pioneer",
       "uris": [
         "magnet:?xt=urn:btih:1524342097350ec335cc2a909bb98c11cf424fe0&tr=udp://opentor.net:6969&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://retracker.local/announce"
@@ -15648,13 +15664,13 @@
       "fileSize": "7.26 GB"
     },
     {
-      "title": "V Rising v1.1.9.0-r92199-b5 by Pioneer",
+      "title": "V Rising v1.1.13.0-r99712-b17 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:c19d0d93400f9457e6d75f04ca1a46a60d0ec3f5&tr=udp://opentor.net:6969&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+        "magnet:?xt=urn:btih:f4ee143703022c8e8ff31ddfd3cac7f8f78ea721&tr=udp://opentor.net:6969&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2025-06-12T14:19:12Z",
-      "fileSize": "4.28 GB",
-      "comment": "http://rutor.is/torrent/1041356"
+      "uploadDate": "2026-05-26T19:15:36Z",
+      "fileSize": "4.30 GB",
+      "comment": "http://rutor.is/torrent/1086868"
     },
     {
       "title": "Walk of Life",
