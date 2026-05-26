@@ -2,6 +2,15 @@
   "name": "FreeTP Custom Repacks",
   "downloads": [
     {
+      "title": "Conan Exiles",
+      "uris": [
+        "magnet:?xt=urn:btih:d3c9e47194c1db9e8531ddea52664de2d2fa358b&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://open.tracker.cl:1337/announce"
+      ],
+      "uploadDate": "2026-05-06T20:05:06Z",
+      "fileSize": "58.28 GB",
+      "comment": "For FreeTP by 100Rad from FPZone"
+    },
+    {
       "title": "DeadPoly v0.6.7 by Pioneer",
       "uris": [
         "magnet:?xt=urn:btih:bae623a4c09e5228210c3652c6647a086c2a96db&tr=udp://opentor.net:6969&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
