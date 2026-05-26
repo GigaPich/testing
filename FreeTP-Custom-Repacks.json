@@ -4,10 +4,11 @@
     {
       "title": "DeadPoly v0.6.7 by Pioneer",
       "uris": [
-        "magnet:?xt=urn:btih:bae623a4c09e5228210c3652c6647a086c2a96db&dn=DeadPoly%20v0.6.7%20by%20Pioneer&tr=udp://opentor.net:6969&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.wepzone.net:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker.theoks.net:6969/announce"
+        "magnet:?xt=urn:btih:bae623a4c09e5228210c3652c6647a086c2a96db&tr=udp://opentor.net:6969&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce"
       ],
-      "uploadDate": "2026-05-26T12:13:21.186924Z",
-      "fileSize": "1.31 GB"
+      "uploadDate": "2026-05-25T12:10:21Z",
+      "fileSize": "1.31 GB",
+      "comment": "http://rutor.is/torrent/1086742"
     }
   ]
 }
