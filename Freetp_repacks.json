@@ -1,5 +1,5 @@
 {
-  "name": "FreeTP By GigaPich",
+  "name": "FreeTP Repacks By GigaPich",
   "downloads": [
     {
       "title": "Conan Exiles",
@@ -18,6 +18,24 @@
       "uploadDate": "2026-05-25T12:10:21Z",
       "fileSize": "1.31 GB",
       "comment": "http://rutor.is/torrent/1086742"
+    },
+    {
+      "title": "Escape Simulator 2",
+      "uris": [
+        "magnet:?xt=urn:btih:8ca3ad5b15f9de6b0c3d6ec06a9fc6f0a67917fc&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+      ],
+      "uploadDate": "2026-05-25T18:00:45Z",
+      "fileSize": "15.64 GB",
+      "comment": ""
+    },
+    {
+      "title": "Serpent's Gaze",
+      "uris": [
+        "magnet:?xt=urn:btih:fd367391ca1b6c031fbd9cca6e5b3c09c497a87f&tr=udp://tracker.opentrackr.org:1337/announce&tr=http://tracker.opentrackr.org:1337/announce&tr=udp://open.demonii.com:1337/announce"
+      ],
+      "uploadDate": "2026-05-26T08:58:57Z",
+      "fileSize": "9.18 GB",
+      "comment": ""
     }
   ]
 }
